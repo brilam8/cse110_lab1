@@ -1,2 +1,2 @@
 # cse110_lab1
-*Brian Lam*'s User Pageg
+*Brian Lam*'s User Page
