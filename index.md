@@ -65,5 +65,3 @@ Uh oh I have some tasks to do!
 That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
-
-Wait why do :+1: emojis exist here? Pretty cool though! :shipit:
