@@ -17,6 +17,9 @@ Anyways, look at all these text stylings: **BOLD**, *ITALICS*, ~~STRIKETHROUGH~~
 Heres a cool quote from me:
 >The world is made of cheese.
 
+Also my brother said this the other day:
+> I really like cheese.
+
 OMG have you tried using `git cheese`? Well... its not a command.
 
 However, these are valid commands:
@@ -26,6 +29,8 @@ git push
 git add
 git commit
 ```
+
+Here is some text.
 
 ```markdown
 Another block!
