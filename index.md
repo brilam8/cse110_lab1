@@ -75,18 +75,22 @@ Here's a table!
 
 HTML Embed!
 <table>
-   <tr>
-      <td> Ice Cream </td>
-      <td> Price </td>
-   </tr>
-   <tr>
-      <td> Vanilla </td>
-      <td> $1 </td>
-   </tr>
-   <tr>
-      <td> Raspberry </td>
-      <td> $5 </td>
-   </tr>
+   <thead>
+      <tr>
+         <td> Ice Cream </td>
+         <td> Price </td>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td> Vanilla </td>
+         <td> $1 </td>
+      </tr>
+      <tr>
+         <td> Raspberry </td>
+         <td> $5 </td>
+      </tr>
+   </tbody>
 </table>
 
 That's pretty much it for this website!
