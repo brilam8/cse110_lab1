@@ -77,5 +77,6 @@ Relative [Link!](README.md)
 Section Header [Link!](https://github.com/brilam8/cse110_lab1/tree/gh-pages#welcome-to-cse-110-lab-1)
 
 Also here is a pretty cool cow:
+
 ![cow](perhaps.jpg)
 
