@@ -72,7 +72,7 @@ I love making new paragraphs and \*Ignoring\* markdown formatting.
 
 Here is another cool [LINK!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Relative [Link!](README.md)
+Relative [Link!](secondPage.md)
 
 Section Header [Link!](https://github.com/brilam8/cse110_lab1/tree/gh-pages#welcome-to-cse-110-lab-1)
 
