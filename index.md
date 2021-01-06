@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Welcome to CSE 110 Lab 1
 
-You can use the [editor on GitHub](https://github.com/brilam8/cse110_lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see Lab 1 [here](https://canvas.ucsd.edu/courses/21783/assignments/255474)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This is Heading 2
+### Heading 3...
+#### Heading 4....
+##### Heading 5.....
+###### Heading 6......
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyways, look at all these text stylings: **BOLD**, *ITALICS*, ~~STRIKETHROUGH~~, **_NESTED_ ITALICS**, ***EXTREMELY IMPORTANT TEXT***.
 
-```markdown
-Syntax highlighted code block
+Heres a cool quote from me:
+>The world is made of cheese.
 
-# Header 1
-## Header 2
-### Header 3
+OMG have you tried using `git cheese`? Well... its not a command.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+However, these are valid commands:
+```
+git status
+git push
+git add
+git commit
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-### Jekyll Themes
+Here's a [relative link](README.md) to the readme!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brilam8/cse110_lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My favorite ice cream(s) are:
+- roblox
+- github
+- cse 110
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wait... those aren't ice creams... Here is my real list:
+1. neopolitan
+2. chocolate
+3. vanilla
+
+Wow this is nested:
+1. Cheesecakes?
+   - no
+     - but yes
+
+Uh oh I have some tasks to do!
+- [X] eat cheesecake
+- [ ] play some roblox
+- [ ] deliver the pizza
+
+So I am a 2nd year Computer Science student here at UCSD, Brian Lam!
+
+I love making new paragraphs and \*Ignoring\* markdown formatting.
+
+Wait why do :+1: emojis exist here? Pretty cool though! :shipit:
