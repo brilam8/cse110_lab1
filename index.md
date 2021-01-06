@@ -66,6 +66,13 @@ Uh oh I have some tasks to do!
 - [ ] deliver the pizza
 - [ ] \(Optional) Take a trip
 
+Here's a table!
+
+| Ice creams      | Price |
+| ----------- | ----------- |
+| Cheese      | $50000       |
+| Vanilla   | $1        |
+
 That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
