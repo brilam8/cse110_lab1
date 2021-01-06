@@ -73,6 +73,22 @@ Here's a table!
 | Cheese      | $50000       |
 | Vanilla   | $1        |
 
+HTML Embed!
+<table>
+   <tr>
+      <td> Ice Cream </td>
+      <td> Price </td>
+   </tr>
+   <tr>
+      <td> Vanilla </td>
+      <td> $1 </td>
+   </tr>
+   <tr>
+      <td> Raspberry </td>
+      <td> $5 </td>
+   </tr>
+</table>
+
 That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
