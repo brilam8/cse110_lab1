@@ -73,25 +73,8 @@ Here's a table!
 | Cheese      | $50000       |
 | Vanilla   | $1        |
 
-HTML Embed!
-<table>
-   <thead>
-      <tr>
-         <td> Ice Cream </td>
-         <td> Price </td>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td> Vanilla </td>
-         <td> $1 </td>
-      </tr>
-      <tr>
-         <td> Raspberry </td>
-         <td> $5 </td>
-      </tr>
-   </tbody>
-</table>
+HTML!
+<p> This is a paragraph </p>
 
 That's pretty much it for this website!
 
