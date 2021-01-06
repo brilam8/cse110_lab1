@@ -65,3 +65,5 @@ Uh oh I have some tasks to do!
 That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
+
+Go back to the top by clicking [here!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/index.md#welcome-to-cse-110-lab-1)
