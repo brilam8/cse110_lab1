@@ -1,5 +1,8 @@
 # Welcome to CSE 110 Lab 1
 
+Hey! I am Brian Lam, a 2nd year Computer Science student here at UCSD! 
+![Portrait](BrianLam.jpg)
+
 You can see Lab 1 [here](https://canvas.ucsd.edu/courses/21783/assignments/255474)
 
 ## This is Heading 2
@@ -49,7 +52,7 @@ Uh oh I have some tasks to do!
 - [ ] play some roblox
 - [ ] deliver the pizza
 
-So I am a 2nd year Computer Science student here at UCSD, Brian Lam!
+That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
 
