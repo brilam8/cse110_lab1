@@ -28,13 +28,13 @@ git commit
 ```
 
 ```markdown
-Styled block!
+Another block!
 
-1. 
-2. 
+1. Animals
+2. Food
 
-- 
-- 
+- Trash cans
+- Refrigerators
 ```
 
 I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
