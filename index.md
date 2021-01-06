@@ -74,7 +74,7 @@ Here is another cool [LINK!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Relative [Link!](secondPage.md)
 
-Section Header [Link!](https://github.com/brilam8/cse110_lab1/tree/gh-pages#welcome-to-cse-110-lab-1)
+Section [Link!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/index.md#welcome-to-cse-110-lab-1)
 
 Also here is a pretty cool cow:
 
