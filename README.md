@@ -44,8 +44,6 @@ Another block!
 
 I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-Here's a [relative link](README.md) to the readme!
-
 My favorite ice cream(s) are:
 - roblox
 - github
@@ -77,4 +75,4 @@ Here is another cool [LINK!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Also here is a pretty cool cow:
 ![cow](perhaps.jpg)
 
-Back to the [top!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/README.md#welcome-to-cse-110-lab-1)
+Back to the [top!](README.md)
