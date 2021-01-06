@@ -66,6 +66,7 @@ Uh oh I have some tasks to do!
 - [X] eat cheesecake
 - [ ] play some roblox
 - [ ] deliver the pizza
+- [ ] \(Optional) Take a trip
 
 That's pretty much it for this website!
 
