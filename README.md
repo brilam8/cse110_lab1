@@ -1,7 +1,7 @@
 # Welcome to CSE 110 Lab 1
 
 Hey! I am Brian Lam, a 2nd year Computer Science student here at UCSD! 
-![Portrait](BrianLam.jpg)
+![Portrait](assets/BrianLam.jpg)
 
 You can see Lab 1 [here](https://canvas.ucsd.edu/courses/21783/assignments/255474)
 
@@ -88,4 +88,4 @@ Section [Link!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/README.md#t
 
 Also here is a pretty cool cow:
 
-![cow](perhaps.jpg)
+![cow](assets/perhaps.jpg)
