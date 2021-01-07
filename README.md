@@ -5,11 +5,11 @@ Hey! I am Brian Lam, a 2nd year Computer Science student here at UCSD!
 
 You can see Lab 1 [here](https://canvas.ucsd.edu/courses/21783/assignments/255474)
 
-## This is Heading 2
-### Heading 3...
-#### Heading 4....
-##### Heading 5.....
-###### Heading 6......
+## This is Heading 2 and is Quite Big!
+### Heading 3... A tad bit smaller.
+#### Heading 4.... Just a little smaller.
+##### Heading 5..... Smaller and smaller...
+###### Heading 6...... This is pretty small....
 
 
 Anyways, look at all these text stylings: **BOLD**, *ITALICS*, ~~STRIKETHROUGH~~, **_NESTED_ ITALICS**, ***EXTREMELY IMPORTANT TEXT***.
@@ -18,9 +18,9 @@ Heres a cool quote from me:
 >The world is made of cheese.
 
 Also my brother said this the other day:
-> I really like cheese.
+> I really like cheese. Especially cream cheese.
 
-OMG have you tried using `git cheese`? Well... its not a command.
+**OMG** have you tried using `git cheese`? Well... its not a command. Though `git branch` is!
 
 However, these are valid commands:
 ```
@@ -44,18 +44,18 @@ Another block!
 
 I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-My favorite ice cream(s) are:
+### My favorite ice cream(s) are:
 - roblox
 - github
 - cse 110
 
 
-Wait... those aren't ice creams... Here is my real list:
+### Wait... those aren't ice creams... Here is my real list:
 1. neopolitan
 2. chocolate
 3. vanilla
 
-Wow this is nested:
+#### Wow this is nested:
 1. Cheesecakes?
    - no
      - but yes
@@ -76,7 +76,7 @@ Here's a table!
 HTML!
 <p> This is a paragraph </p>
 
-That's pretty much it for this website!
+## That's pretty much it for this website!
 
 I love making new paragraphs and \*Ignoring\* markdown formatting.
 
