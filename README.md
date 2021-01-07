@@ -12,7 +12,7 @@ You can see Lab 1 [here](https://canvas.ucsd.edu/courses/21783/assignments/25547
 ###### Heading 6...... This is pretty small....
 
 
-Anyways, look at all these text stylings: **BOLD**, *ITALICS*, ~~STRIKETHROUGH~~, **_NESTED_ ITALICS**, ***EXTREMELY IMPORTANT TEXT***.
+Anyways, look at all of these text stylings: **BOLD**, *ITALICS*, ~~STRIKETHROUGH~~, **_NESTED_ ITALICS**, ***EXTREMELY IMPORTANT TEXT***.
 
 Heres a cool quote from me:
 >The world is made of cheese.
@@ -20,7 +20,7 @@ Heres a cool quote from me:
 Also my brother said this the other day:
 > I really like cheese. Especially cream cheese.
 
-**OMG** have you tried using `git cheese`? Well... its not a command. Though `git branch` is!
+**Wow!** have you tried using `git cheese`? Well... its not a command, but `git branch` is!
 
 However, these are valid commands:
 ```
@@ -50,7 +50,7 @@ I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-p
 - cse 110
 
 
-### Wait... those aren't ice creams... Here is my real list:
+### Wait... those aren't types of ice cream... Here is my real list:
 1. neopolitan
 2. chocolate
 3. vanilla
@@ -62,7 +62,7 @@ I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-p
      - indeed but no
        - however, yes
 
-Uh oh I have some tasks to do!
+Oh no! I have some tasks to do!
 - [X] eat cheesecake
 - [ ] play some roblox
 - [ ] deliver the pizza
@@ -80,7 +80,7 @@ HTML!
 
 ## That's pretty much it for this website!
 
-I love making new paragraphs and \*Ignoring\* markdown formatting.
+I love making new paragraphs and \*ignoring\* markdown formatting.
 
 Here is another cool [LINK!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -88,6 +88,6 @@ Relative [Link!](secondPage.md)
 
 Section [Link!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/README.md#this-is-heading-2)
 
-Also here is a pretty cool cow:
+Also here is an image of a cool cow:
 
 ![cow](assets/perhaps.jpg)
