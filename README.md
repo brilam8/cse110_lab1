@@ -84,7 +84,7 @@ Here is another cool [LINK!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Relative [Link!](secondPage.md)
 
-Section [Link!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/index.md#this-is-heading-2)
+Section [Link!](https://github.com/brilam8/cse110_lab1/blob/gh-pages/README.md#this-is-heading-2)
 
 Also here is a pretty cool cow:
 
