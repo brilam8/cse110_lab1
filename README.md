@@ -30,7 +30,7 @@ git add
 git commit
 ```
 
-Here is some text.
+Here is *some text.*
 
 ```markdown
 Another block!
