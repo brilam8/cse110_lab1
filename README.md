@@ -59,6 +59,7 @@ I built this using [GitHub Flavored Markdown!](https://docs.github.com/en/free-p
 1. Cheesecakes?
    - no
      - but yes
+       - wow again!
 
 Uh oh I have some tasks to do!
 - [X] eat cheesecake
@@ -68,10 +69,10 @@ Uh oh I have some tasks to do!
 
 Here's a table!
 
-| Ice creams      | Price |
-| ----------- | ----------- |
-| Cheese      | $50000       |
-| Vanilla   | $1        |
+| Ice creams      | Price |  Rating   |
+| ----------- | ----------- | ----------- |
+| Cheese      | $50000       | 500/10   |
+| Vanilla   | $1        |  1/10    |
 
 HTML!
 <p> This is a paragraph </p>
